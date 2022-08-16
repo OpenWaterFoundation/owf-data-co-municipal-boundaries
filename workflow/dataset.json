@@ -1,0 +1,25 @@
+{
+  "title": "Colorado Municipal Boundaries",
+  "description": "Colorado municipal boundaries.",
+  "identifier": "owf-data-co-municipal-boundaries",
+  "landingPage": "https://data.openwaterfoundation.org/state/co/sdo/municipal-boundaries/",
+  "issued": "2022-08-16",
+  "keyword": [
+    "polygon",
+    "municipal boundaries",
+    "municipalities"
+  ],
+  "publisher": {
+    "name": "Open Water Foundation",
+    "mbox": "info@openwaterfoundation.org"
+  },
+  "distribution": [
+    {
+      "accessURL": "",
+      "byteSize": null,
+      "description": "Resource locator",
+      "format": "application/geo+json",
+      "title": "Colorado Municipal Boundaries"
+    }
+  ]
+}
