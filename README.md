@@ -2,10 +2,10 @@
 
 This repository contains the [Open Water Foundation (OWF)](https://openwaterfoundation.org)
 dataset files for Colorado municipal boundaries,
-which is a processed version of boundaries from the State Demography Office (SDO)
-The SDO dataset is also published on the
+which is a processed version of boundaries from the State Department of Local Affairs (DOLA)
+The DOLA dataset is also published on the
 [Colorado Information Marketplace](https://data.colorado.gov/Local-Aggregation/Municipal-Boundaries-in-Colorado/u943-ics6);
-however, data are retrieved from the SDO to ensure the data are up to date.
+however, data are retrieved from DOLA to ensure the data are up to date.
 
 This repository contains the workflow to create the GeoJSON file, and the resulting output.
 The dataset files are also published on
@@ -48,7 +48,7 @@ C:\Users\user/                              Windows user files.
 The files in the `data` folder can be used directly by GIS and web mapping applications.
 
 However, it is recommended to use the files served from the
-[Colorado Municipal Boundaries](https://data.openwaterfoundation.org/state/co/sdo/municipal-boundaries/) dataset links.
+[Colorado Municipal Boundaries](https://data.openwaterfoundation.org/state/co/dola/municipal-boundaries/) dataset links.
 
 ## License ##
 
